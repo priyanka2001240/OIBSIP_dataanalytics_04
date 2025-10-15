@@ -36,7 +36,7 @@ Model Building & Benchmarking:
 
 Trained and compared three models:
 
-Random Forest Classifier 🌲
+Random Forest Classifier 
 
 Support Vector Classifier (SVC)
 
